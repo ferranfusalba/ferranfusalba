@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
 [![ffusalba's 42 stats](https://badge42.herokuapp.com/api/stats/ffusalba?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-</p>
 
 <!--
 **ferranfusalba/ferranfusalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
