@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ferran 🤙🏻</h1>
 <h3 align="center">A front-end developer from Barcelona</h3>
 
-- 👨🏻‍💻 Frontend Engineer Intern at [Deale](https://deale.es/), building Europe's first M&A platform <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="14" height="14"/> </a>.
-- 🖥 Learning C, Shell and more on 42 Barcelona.
+- 👨🏻‍💻 Frontend Engineer Intern at [Deale](https://deale.es/), building Europe's first M&A platform <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> </a>.
+- 🖥 Learning C and Shell at 42 Barcelona.
 - 📷 Passionate about sounds and photography on architecture and lights.
 
 ### 42 Stats
