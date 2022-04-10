@@ -6,9 +6,9 @@
 - 📷  Passionate about sounds and [photography](https://unsplash.com/@frrn) on architecture and lights
 
 ### 42 Stats
-[![ffusalba's 42 stats](https://badge42.herokuapp.com/api/stats/ffusalba?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![ffusalba's 42 stats](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/stats?cursusId=21&coalitionId=205)](https://github.com/JaeSeoKim/badge42)
 
 | Rank        | Project       | Language | Score                                                                          |
 | ----------- | -----------   | -------- | ------------------------------------------------------------------------------ |
-| 1️⃣          | Libft         | C        | [![Score](https://badge42.herokuapp.com/api/project/ffusalba/Libft)]()         |
-| 2️⃣          | Born2beroot   | Shell    | [![Score](https://badge42.herokuapp.com/api/project/ffusalba/Born2beroot)]()   |
+| 1️⃣          | Libft         | C        | [![ffusalba's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/project/2454190)](https://github.com/JaeSeoKim/badge42)      |
+| 2️⃣          | Born2beroot   | Shell    | [![ffusalba's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/project/2454190)](https://github.com/JaeSeoKim/badge42)  |
