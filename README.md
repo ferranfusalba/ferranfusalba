@@ -11,4 +11,6 @@
 | Rank        | Project       | Language | Score                                                                          |
 | ----------- | -----------   | -------- | ------------------------------------------------------------------------------ |
 | 1️⃣          | Libft         | C        | [![ffusalba's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/project/2454190)](https://github.com/JaeSeoKim/badge42)      |
-| 2️⃣          | Born2beroot   | Shell    | [![ffusalba's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/project/2454190)](https://github.com/JaeSeoKim/badge42)  |
+| 2️⃣          | Born2beroot   | Shell    | [![ffusalba's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/project/2486653)](https://github.com/JaeSeoKim/badge42)  |
+| 3️⃣          | ft_printf   | C    | [![ffusalba's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/project/2542509)](https://github.com/JaeSeoKim/badge42)  |
+| 4️⃣          | get_next_line   | C    | [![ffusalba's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/project/2522834)](https://github.com/JaeSeoKim/badge42)  |
