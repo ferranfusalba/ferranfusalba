@@ -15,4 +15,6 @@
 | 3️⃣          | ft_printf   | C    | [![ffusalba's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/project/2542509)](https://github.com/JaeSeoKim/badge42)  |
 | 4️⃣          | get_next_line   | C    | [![ffusalba's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1tdi2q3003509l767oyy9p7/project/2522834)](https://github.com/JaeSeoKim/badge42)  |
 
+![image](./ibm-carbon-design-system-developer-essentials-vue.png)
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a02eead-3e55-4e05-b433-6f63abbb323d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
