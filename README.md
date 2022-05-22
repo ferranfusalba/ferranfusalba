@@ -17,8 +17,4 @@
 
 ### Badges
 
-![image](./ibm-carbon-design-system-developer-essentials-vue.png)
-
-<a href="https://www.credly.com/badges/0a02eead-3e55-4e05-b433-6f63abbb323d/public_url" target="_blank"><img src="./ibm-carbon-design-system-developer-essentials-vue.png" alt="badge" width="150"/></a>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a02eead-3e55-4e05-b433-6f63abbb323d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/0a02eead-3e55-4e05-b433-6f63abbb323d/public_url" target="_blank"><img src="./ibm-carbon-design-system-developer-essentials-vue.png" alt="badge" width="120"/></a>
